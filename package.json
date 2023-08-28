@@ -1,0 +1,24 @@
+{
+  "name": "api-jwt",
+  "version": "1.0.0",
+  "description": "Api con node js utlizando jwt jason web token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glopezs18/node-api-jwt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glopezs18/node-api-jwt/issues"
+  },
+  "homepage": "https://github.com/glopezs18/node-api-jwt#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1"
+  }
+}
